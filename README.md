@@ -1,4 +1,4 @@
-## Hi there, I'm Rafael Grecco 👨‍💻
+## Hi there, I'm Gabriela Vanzelli 👨‍💻
 - 🔭 Currently work: Data Enginner [Datlo](https://www.datlo.com/)
 - 🎓 Studying: Bachelor's Degree in analysis and systems development at the Unicesumar
 - 🌱 Learning: Data enginner Tool, Data Science, Machine Learning, DevOps
