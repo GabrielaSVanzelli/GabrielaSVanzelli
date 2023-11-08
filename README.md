@@ -20,14 +20,14 @@
   <img style="width: auto;" src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python&logoColor=fff"> 
   <img style="width: auto;" src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/Selenium WebDriver-292e33?style=flat-square&logo=Selenium&logoColor=fff">
-  <img style="width: auto;" src="https://img.shields.io/badge/ElasticSearch-292e33?style=flat-square&logo=ElasticSearch&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/OpenSearch-292e33?style=flat-square&logo=OpenSearch&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/PostgreSQL-292e33?style=flat-square&logo=PostgreSQL&logoColor=fff">
   <br>
   <img style="width: auto;" src="https://img.shields.io/badge/RabbitMQ-292e33?style=flat-square&logo=RabbitMQ&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/Docker-292e33?style=flat-square&logo=Docker&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/AWS-292e33?style=flat-square&logo=amazon&logoColor=fff">
-  <img style="width: auto;" src="https://img.shields.io/badge/Flask-292e33?style=flat-square&logo=Flask&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Kafka-292e33?style=flat-square&logo=ApacheKafka&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/FastAPI-292e33?style=flat-square&logo=FastAPI&logoColor=fff">
   <br>
   <img style="width: auto;" src="https://img.shields.io/badge/HTML-292e33?style=flat-square">
