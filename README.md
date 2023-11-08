@@ -4,7 +4,7 @@
 - 🌱 Learning: Data enginner Tool, Data Science, Machine Learning, DevOps
 ##
  <div style="textAlign:Justify">
-  <a href="https://github.com/rafaelgrecco">
+  <a href="https://github.com/GabrielaSVanzelli">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielaSVanzelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSVanzelli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
