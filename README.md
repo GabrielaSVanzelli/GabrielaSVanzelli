@@ -41,5 +41,5 @@
 </h3>
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriela-vanzelli/"><img style="width: 108px;" src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=LinkedIn&logoColor=fff"></a>
+  <a href="https://www.linkedin.com/in/gabriela-vanzelli-914b181b0/"><img style="width: 108px;" src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=LinkedIn&logoColor=fff"></a>
 </p>
