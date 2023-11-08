@@ -29,9 +29,10 @@
   <img style="width: auto;" src="https://img.shields.io/badge/AWS-292e33?style=flat-square&logo=amazon&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/Kafka-292e33?style=flat-square&logo=ApacheKafka&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/FastAPI-292e33?style=flat-square&logo=FastAPI&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Airflow-292e33?style=flat-square&logo=ApacheAirflow&logoColor=fff">
   <br>
-  <img style="width: auto;" src="https://img.shields.io/badge/HTML-292e33?style=flat-square">
-  <img style="width: auto;" src="https://img.shields.io/badge/XPath-292e33?style=flat-square">
+  <img style="width: auto;" src="https://img.shields.io/badge/GCP-292e33?style=flat-square&logo=Google&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/MageAI-292e33?style=flat-square">
   <img style="width: auto;" src="https://img.shields.io/badge/Regular Expressions-292e33?style=flat-square">
 </p>
 
